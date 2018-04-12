@@ -2,8 +2,8 @@
 Simple Node.js Command Line Weather Application
 
 <p align="center">
-  <img src="https://github.com/ehabdevel/nodejs-weather-app/blob/master/public/screenshot/screenshot1.png" width="350"/>
-  <img src="screenshot/screenshot2.png" width="350"/>
+  <img src="https://github.com/ehabdevel/nodejs-weather-app/blob/master/public/screenshot/screenshot1.png" />
+  <img src="https://github.com/ehabdevel/nodejs-weather-app/blob/master/public/screenshot/screenshot2.png" />
 </p>
 
 * Run the web app locally:
